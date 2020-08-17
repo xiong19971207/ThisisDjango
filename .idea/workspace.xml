@@ -10,6 +10,13 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1fwg1E10Bgty6l7X7YBZaeAY240" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -68,7 +75,7 @@
       <workItem from="1597218150044" duration="2098000" />
       <workItem from="1597302574875" duration="521000" />
       <workItem from="1597303423323" duration="54000" />
-      <workItem from="1597655458071" duration="376000" />
+      <workItem from="1597655458071" duration="3067000" />
     </task>
     <servers />
   </component>
@@ -88,22 +95,22 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1597303476349" />
-    <state width="2133" height="465" key="GridCell.Tab.0.bottom" timestamp="1597655466649">
+    <state width="2133" height="465" key="GridCell.Tab.0.bottom" timestamp="1597658541504">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597655466649" />
-    <state width="2133" height="465" key="GridCell.Tab.0.center" timestamp="1597655466649">
+    <state width="2133" height="465" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
+    <state width="2133" height="465" key="GridCell.Tab.0.center" timestamp="1597658541504">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597655466649" />
-    <state width="2133" height="465" key="GridCell.Tab.0.left" timestamp="1597655466649">
+    <state width="2133" height="465" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
+    <state width="2133" height="465" key="GridCell.Tab.0.left" timestamp="1597658541504">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597655466649" />
-    <state width="2133" height="465" key="GridCell.Tab.0.right" timestamp="1597655466649">
+    <state width="2133" height="465" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
+    <state width="2133" height="465" key="GridCell.Tab.0.right" timestamp="1597658541504">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597655466649" />
+    <state width="2133" height="465" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
     <state x="371" y="68" key="SettingsEditor" timestamp="1597224116809">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
