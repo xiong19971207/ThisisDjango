@@ -23,19 +23,133 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_csv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YAE\PycharmProjects\ThisisDjango\my_csv" />
+      <recent name="C:\Users\YAE\PycharmProjects\ThisisDjango\excel" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\virtualenv\env\Scripts" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ThisisDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThisisDjango" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThisisDjango/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ThisisDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThisisDjango" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThisisDjango/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ThisisDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_apis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ThisisDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel/test_apis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_apis (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ThisisDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_csv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_csv/test_apis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ThisisDjango" type="Python.DjangoServer" factoryName="Django server">
       <module name="ThisisDjango" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +174,15 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.test_apis (2)" />
+        <item itemvalue="Python.test_apis (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -77,6 +200,10 @@
       <workItem from="1597303423323" duration="54000" />
       <workItem from="1597655458071" duration="3067000" />
       <workItem from="1597658555013" duration="737000" />
+      <workItem from="1597712638003" duration="1354000" />
+      <workItem from="1597718164410" duration="21366000" />
+      <workItem from="1597743224577" duration="3000" />
+      <workItem from="1597743855222" duration="4061000" />
     </task>
     <servers />
   </component>
@@ -84,37 +211,61 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597135785901">
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597744328491">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597135785901" />
-    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597134433053">
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597744328491" />
+    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597740169116">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597134433053" />
-    <state x="772" y="233" key="FileChooserDialogImpl" timestamp="1597303476349">
+    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597740169116" />
+    <state x="772" y="233" key="FileChooserDialogImpl" timestamp="1597745357987">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1597303476349" />
-    <state width="2133" height="465" key="GridCell.Tab.0.bottom" timestamp="1597658541504">
+    <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1597745357987" />
+    <state width="2133" height="346" key="GridCell.Tab.0.bottom" timestamp="1597747310533">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
-    <state width="2133" height="465" key="GridCell.Tab.0.center" timestamp="1597658541504">
+    <state width="2133" height="346" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
+    <state width="2133" height="346" key="GridCell.Tab.0.center" timestamp="1597747310533">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
-    <state width="2133" height="465" key="GridCell.Tab.0.left" timestamp="1597658541504">
+    <state width="2133" height="346" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
+    <state width="2133" height="346" key="GridCell.Tab.0.left" timestamp="1597747310533">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
-    <state width="2133" height="465" key="GridCell.Tab.0.right" timestamp="1597658541504">
+    <state width="2133" height="346" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
+    <state width="2133" height="346" key="GridCell.Tab.0.right" timestamp="1597747310533">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="465" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597658541504" />
-    <state x="371" y="68" key="SettingsEditor" timestamp="1597224116809">
+    <state width="2133" height="346" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
+    <state x="371" y="68" key="SettingsEditor" timestamp="1597745838214">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1597224116809" />
+    <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1597745838214" />
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1597734432323">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597734432323" />
+    <state x="472" y="83" key="editAsTableFormatDialogDimension" timestamp="1597728522220">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="472" y="83" key="editAsTableFormatDialogDimension/0.0.2194.1194@0.0.2194.1194" timestamp="1597728522220" />
+    <state x="836" y="0" width="862" height="1194" key="find.popup" timestamp="1597734687203">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="836" y="0" width="862" height="1194" key="find.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1597734687203" />
+    <state x="590" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1597733609873">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="590" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1597733609873" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ThisisDjango$test.coverage" NAME="test Coverage Results" MODIFIED="1597747262690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$test_apis__1_.coverage" NAME="test_apis (1) Coverage Results" MODIFIED="1597739614755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$settings.coverage" NAME="settings Coverage Results" MODIFIED="1597746842996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ThisisDjango" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$apis.coverage" NAME="test_apis Coverage Results" MODIFIED="1597722047677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$test_apis__2_.coverage" NAME="test_apis (2) Coverage Results" MODIFIED="1597740157151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_csv" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1597744276538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ThisisDjango" />
   </component>
 </project>

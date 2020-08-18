@@ -24,7 +24,7 @@ SECRET_KEY = 'g&qjmmq5+#l1z&=c%v1fdam3)-h3f9lt(j9i6)5gz#@qabp3x#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     # 管理静态资源的框架
     'django.contrib.staticfiles',
 
-    'model'
+    'model',
+    'excel',
 ]
 
 MIDDLEWARE = [
@@ -92,6 +93,12 @@ DATABASES = {
         'HOST': 'localhost',
         'USER': 'root',
         'PASSWORD': '1234',
+        # 'ENGINE': 'django.db.backends.postgresql',
+        # 'NANE': 'test',
+        # 'USER': 'postgres',
+        # 'PASSWORD': '123',
+        # 'HOST': '127.0.0.1',
+        # 'PORT': '5432',
     }
 }
 
