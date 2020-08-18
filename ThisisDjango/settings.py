@@ -46,6 +46,7 @@ INSTALLED_APPS = [
 
     # 管理静态资源的框架
     'django.contrib.staticfiles',
+
     'model'
 ]
 
