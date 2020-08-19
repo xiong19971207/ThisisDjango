@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     'model',
     'excel',
+    'meta',
 ]
 
 MIDDLEWARE = [

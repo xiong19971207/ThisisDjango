@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_csv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -203,7 +203,8 @@
       <workItem from="1597712638003" duration="1354000" />
       <workItem from="1597718164410" duration="21366000" />
       <workItem from="1597743224577" duration="3000" />
-      <workItem from="1597743855222" duration="4061000" />
+      <workItem from="1597743855222" duration="4598000" />
+      <workItem from="1597821077272" duration="4145000" />
     </task>
     <servers />
   </component>
@@ -223,22 +224,38 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1597745357987" />
-    <state width="2133" height="346" key="GridCell.Tab.0.bottom" timestamp="1597747310533">
+    <state width="2133" height="401" key="GridCell.Tab.0.bottom" timestamp="1597826171116">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
-    <state width="2133" height="346" key="GridCell.Tab.0.center" timestamp="1597747310533">
+    <state width="2133" height="401" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597826171116" />
+    <state width="2133" height="401" key="GridCell.Tab.0.center" timestamp="1597826171116">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
-    <state width="2133" height="346" key="GridCell.Tab.0.left" timestamp="1597747310533">
+    <state width="2133" height="401" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597826171116" />
+    <state width="2133" height="401" key="GridCell.Tab.0.left" timestamp="1597826171116">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
-    <state width="2133" height="346" key="GridCell.Tab.0.right" timestamp="1597747310533">
+    <state width="2133" height="401" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597826171116" />
+    <state width="2133" height="401" key="GridCell.Tab.0.right" timestamp="1597826171116">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597747310533" />
+    <state width="2133" height="401" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597826171116" />
+    <state width="2133" height="376" key="GridCell.Tab.1.bottom" timestamp="1597826004824">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="376" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597826004824" />
+    <state width="2133" height="376" key="GridCell.Tab.1.center" timestamp="1597826004824">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="376" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597826004824" />
+    <state width="2133" height="376" key="GridCell.Tab.1.left" timestamp="1597826004824">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="376" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597826004824" />
+    <state width="2133" height="376" key="GridCell.Tab.1.right" timestamp="1597826004824">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="376" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597826004824" />
     <state x="371" y="68" key="SettingsEditor" timestamp="1597745838214">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -261,7 +278,7 @@
     <state x="590" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1597733609873" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ThisisDjango$test.coverage" NAME="test Coverage Results" MODIFIED="1597747262690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ThisisDjango$test.coverage" NAME="test Coverage Results" MODIFIED="1597826161630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
     <SUITE FILE_PATH="coverage/ThisisDjango$test_apis__1_.coverage" NAME="test_apis (1) Coverage Results" MODIFIED="1597739614755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
     <SUITE FILE_PATH="coverage/ThisisDjango$settings.coverage" NAME="settings Coverage Results" MODIFIED="1597746842996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ThisisDjango" />
     <SUITE FILE_PATH="coverage/ThisisDjango$apis.coverage" NAME="test_apis Coverage Results" MODIFIED="1597722047677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />

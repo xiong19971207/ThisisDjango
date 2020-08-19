@@ -3,7 +3,7 @@ from django.db import models
 
 # Create your models here.
 class Animal(models.Model):
-    name = models.CharField(max_length=16)
+    name = models.CharField(max_length=16,verbose_name='动物的名称')
     age = models.IntegerField()
 
 
