@@ -1,3 +1,13 @@
-from django.shortcuts import render
+from django.http import HttpResponse
 
-# Create your views here.
+from meta.models import Student
+
+
+def student(request):
+    s = Student.student.all()
+    print(s)
+
+    s2 = Student.student.none()
+    print(s2)
+
+    return HttpResponse('成功')

@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'model',
     'excel',
     'meta',
+    'learn',
 ]
 
 MIDDLEWARE = [
@@ -88,12 +89,12 @@ WSGI_APPLICATION = 'ThisisDjango.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django',
-        'PORT': '3306',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'yae',
+        'PORT': '5432',
         'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD': '1234',
+        'USER': 'bear',
+        'PASSWORD': '123',
         # 'ENGINE': 'django.db.backends.postgresql',
         # 'NANE': 'test',
         # 'USER': 'postgres',

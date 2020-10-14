@@ -15,6 +15,9 @@ class Animal(models.Model):
 class Student(models.Model):
     name = models.CharField(max_length=16)
 
+    # 改变模型管理器的名字,默认是objects
+    student = models.Manager()
+
     class Meta:
         # 用于指定模型所在的App,可以用于在其他文件下创建属于app_label的模型
         app_label = 'model'
